@@ -16,7 +16,7 @@ import java.util.List;
 public class Stucom_Royale_Main {
   
 	System.out.println("Cambios");
-System.out.println("dasdasda");
+System.out.println("Cambios");
 
     public static List<Player> player = new ArrayList<>();
     public static List<Cards> cards = new ArrayList<>();
